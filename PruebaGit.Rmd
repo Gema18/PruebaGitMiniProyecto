@@ -12,3 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 # Hola esto es una prueba
 ```
 
+```{r}
+print("Wilson asqueroso")
+```
+
